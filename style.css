@@ -1,0 +1,43 @@
+body{
+  background: linear-gradient(to bottom, #ef5350, #f44336, #e53935, #d32f2f, #c62828);
+}
+.painel{
+  margin-top: 100px;
+  width: auto;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#sim{
+  background-color: red;
+  height: 30px;
+  width: 60px;
+  border: white;
+  border-radius: 13px;
+  color: white;
+}
+#nao{
+  background-color: red;
+  height: 30px;
+  width: 60px;
+  border: white;
+  border-radius: 13px;
+  color: white;
+}
+#ler{
+  background-color: red;
+  height: 50px;
+  width: 100px;
+  border: white;
+  border-radius: 13px;
+  color: white;
+}
+#pato{
+  display: flex;
+  height: 200px;
+  width: 200px;
+  align-items: flex-end;
+  border-radius: 15px;
+}
